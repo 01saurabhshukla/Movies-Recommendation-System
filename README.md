@@ -1,6 +1,7 @@
 # Movie Recommendation System using Cosine Similarity
 
-![Movie Recommendation System](movie_recommendation.jpg)
+![resommendation sytem](https://github.com/01saurabhshukla/Movies-Recommendation-System/assets/88873969/658ab024-9702-4971-a9a6-88f5f868c2c5)
+
 
 ## Table of Contents
 
